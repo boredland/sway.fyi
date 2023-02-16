@@ -1,0 +1,10 @@
+title: Sway FYI
+email: info@sway.fyi
+url: "https://sway.fyi"
+
+plugins:
+  - jekyll-webp
+
+webp:
+  enabled: true
+  formats: [".jpeg", ".jpg", ".png", ".tiff"]
